@@ -175,3 +175,6 @@ h1, h2, h3, p {
 .btn-submit:hover {
     opacity: 0.85;
 }
+header h1, header p {
+    color: ffffff !important;
+}
